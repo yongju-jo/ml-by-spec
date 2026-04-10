@@ -56,8 +56,8 @@ y_pred = pipe.predict(X_new)
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/specml.git
-cd specml
+git clone https://github.com/whdydwn1/ml-by-spec.git
+cd ml-by-spec
 python -m venv .venv && source .venv/bin/activate
 pip install -e ".[dev]"
 ```
