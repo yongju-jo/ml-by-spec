@@ -45,3 +45,9 @@ Thumbs.db
 # Logs
 *.log
 logs/
+
+# Claude Code
+.claude/
+
+# CatBoost training artifacts
+catboost_info/
